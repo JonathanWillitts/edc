@@ -68,7 +68,6 @@ edc-transfer
 edc-utils
 edc-visit-schedule
 edc-visit-tracking
-git+https://github.com/erikvw/django-import-export@get_export_admin_action
-git+https://github.com/jazzband/django-defender@master
-git+https://github.com/yprez/django-logentry-admin@master
-
+git+https://github.com/erikvw/django-import-export@get_export_admin_action#egg=django-import-export
+git+https://github.com/jazzband/django-defender@master#egg=django-defender
+git+https://github.com/yprez/django-logentry-admin@master#egg=django-logentry-admin
